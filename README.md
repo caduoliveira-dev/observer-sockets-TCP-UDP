@@ -1,3 +1,5 @@
+Alunos: Carlos Eduardo Ribeiro Oliveira e João Victor da Silva Carvalho
+
 # Compila tudo
 javac -encoding UTF-8 *.java
 
