@@ -1,5 +1,8 @@
-Na pasta do projeto (requer JDK 11+):
-
+# Compilar tudo
 javac -encoding UTF-8 *.java
-java TelaServidor     # abre a janela do servidor
-java TelaCliente      # abre um cliente (pode abrir vários em paralelo)
+
+# Rodar o servidor (1 instância)
+java TelaServidor
+
+# Rodar um cliente (quantas instâncias quiser, cada uma em um terminal)
+java TelaCliente
